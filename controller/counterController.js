@@ -10,6 +10,7 @@ module.exports.getCounter = async (req, res) => {
   }
 };
 
+
 // function for incrementing counter number
 module.exports.incrementCounter = async (req, res) => {
   try {
